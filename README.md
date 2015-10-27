@@ -5,4 +5,4 @@ Notificación de terremotos para OS X (Earthquakes notification for OS X)
 <li>pinquake_chile.sh - Notifica de los nuevos sismos que ocurren en Chile, sobre los 3.0 grados de magnitud (Centro Sismológico de la Universidad de Chile).</li>
 <li>pinquake_japon.sh - Notifica de los nuevos sismos en Japón (Japan Meteorological Agency).</li>
 </ul>
-Todos utilizan terminal-notifier para las notificaciones de escritorio (instalen terminal-notifier con Homebrew). Las notificaciones se van acumulando en el Centro de notificaciones de OS X.
+Todos utilizan <code>terminal-notifier</code> para las notificaciones de escritorio (instalen terminal-notifier con Homebrew). Las notificaciones se van acumulando en el Centro de notificaciones de OS X.
